@@ -1,0 +1,26 @@
+<!-- BMS code repo PR Template DELETE ME. -->
+## Relevant JIRA
+
+<!-- Update to the appropriate JIRA ticket. DELETE ME-->
+https://equinixjira.atlassian.net/browse/BMS-
+
+## Why is this necessary?
+
+<!-- Please describe why this PR should be merged. DELETE ME. -->
+
+## What does this PR do / not do?
+
+<!-- Please describe what this PR is going to change. DELETE ME. -->
+
+## (How) Has This Been Tested?
+
+<!-- Please describe if/how you tested your changes. DELETE ME. -->
+
+## Checklist
+
+<-- Please add/remove relevant list items. DELETE ME. -->
+
+I have:
+
+- [ ] updated the corresponding documentation
+- [ ] added unit or e2e tests
