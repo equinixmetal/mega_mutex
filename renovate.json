@@ -1,0 +1,6 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "github>equinixmetal/bare-metal-docs//renovate/bms_renovate.json"
+    ]
+}
